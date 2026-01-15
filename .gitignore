@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*$py.class
+venv/
+.env
+
+# YOLO/Ultralytics
+runs/
+!best.pt # We want to keep our best fine-tuned model
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
