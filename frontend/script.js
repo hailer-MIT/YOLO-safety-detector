@@ -11,7 +11,7 @@ const detectionList = document.getElementById('detection-list');
 const resetBtn = document.getElementById('reset-btn');
 
 // const API_URL = 'http://localhost:8000/predict';
-const API_URL = 'https://yolo-safety-detector-1.onrender.onrender.com/predict';
+const API_URL = 'https://yolo-safety-detector-1.onrender.com/predict';
 
 
 // Drag and drop handlers
